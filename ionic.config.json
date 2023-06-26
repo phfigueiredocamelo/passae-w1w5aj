@@ -1,0 +1,8 @@
+{
+  "name": "Passae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "146ffd02"
+}
